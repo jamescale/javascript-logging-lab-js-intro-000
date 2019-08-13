@@ -15,4 +15,3 @@ console.log(dog) //'dog'
 var word = 'bird'
 
 window.word
-
