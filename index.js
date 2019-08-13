@@ -11,3 +11,8 @@ console.log(bird) //'bird'
 word = 'dog'
 
 console.log(dog) //'dog'
+
+var word = 'bird'
+
+window.word
+
