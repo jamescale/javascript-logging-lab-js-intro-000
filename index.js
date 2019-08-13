@@ -1,15 +1,5 @@
-var word = 'bird'
-
-console.log(word)
-
-var word = 'dog'
-
-console.log(word)
-
-var word = 'cat'
-
-console.log(word)
-
-var word = 'wand'
-
-console.log(word)
+var a = 5
+var b = 2
+var c = 3
+var d = 'hello'
+var e = 'goodbye'
