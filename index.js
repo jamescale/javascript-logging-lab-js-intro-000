@@ -1,11 +1,13 @@
-var word = 'bird'
+//declare the variable
+var word
 
-console.log(word)
+//assign a value to the variable
+word = 'bird'
 
-var word = 'dog'
+console.log(bird) //'bird'
 
-console.log(word)
+//assign another value to the variable
 
-var word = 'cat'
+word = 'dog'
 
-console.log(word)
+console.log(dog) //'dog'
